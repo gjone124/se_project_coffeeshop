@@ -1,12 +1,5 @@
 /* make sure font-familes, font-styles, and colors are added in */
 
-/* header image
-<img
-        src="./images/inside_coffee_shop.png"
-        alt="Illustration 'Inside the coffee shop'"
-        class="header__image"
-      />*/
-
 .page {
   min-width: 1100px;
   max-width: 1600px;
