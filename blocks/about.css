@@ -30,7 +30,8 @@
   margin: 0;
   max-width: 251px;
 
-  font-family: "Inter";
+  font-family: "Inter", "Arial", "sans-serif"; /* brief says "for Inter, use Arial as a fallback 
+  and use the generic sans-serif family in case the user doesn’t have either of the other fonts" */
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -51,7 +52,8 @@
 .about__paragraph {
   margin: 0;
 
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", "serif"; /* brief says "for Noto Serif, use Times New Roman as a fallback 
+  and use the generic serif family in case the user doesn’t have either of the other fonts" */
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

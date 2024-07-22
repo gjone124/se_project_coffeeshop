@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- the menu would look better if the prices were all formatted the same
+  ($1.00, $1.25, & $1.50 instead of $1, $1.25, $1.5)
+- the navigation links on the first page would look better if they were all capitalized ("Book A Table" instead of "Book a table")
+- under the menu, the "Party-size" cup would look better capitalized as "Party-Size" like the other items on the menu
