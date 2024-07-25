@@ -43,11 +43,8 @@
   padding: 0 20px 0 20px;
 }
 
-.form__input[type="text"],
-.form__input[type="number"],
-.form__input[type="email"] {
-  font-family: "Inter", "Arial", sans-serif;
-  font-style: normal;
+.form__input::placeholder {
+  font-family: "Inter", Arial, sans-serif;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
@@ -55,10 +52,7 @@
 }
 
 .form__input[type="datetime-local"] {
-  font-size: 20px; /* reviewer said that I shouldn't have a selector for each input type 
-                   & that all inputs should be the same but the brief clearly shows that 
-                   the datetime-local text is black and not gray like the other inputs 
-                   & if you don't set datetime-local to 20px it will be too small at 16px */
+  font-size: 20px;
   color: #000000;
 }
 
