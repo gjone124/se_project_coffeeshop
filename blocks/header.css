@@ -4,13 +4,10 @@
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
-
   box-sizing: border-box;
   padding: 30px 80px 40px;
-
   display: flex;
   flex-direction: column;
-
   background-color: #ffffff;
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
@@ -21,7 +18,6 @@
 .header__image {
   position: absolute;
   z-index: -1;
-
   top: 124px;
   right: 5px;
   height: 568px;
@@ -32,7 +28,6 @@
   position: relative;
   margin: 183px 0 0;
   max-width: 729px;
-
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -54,7 +49,6 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
@@ -68,7 +62,6 @@
   align-items: flex-end;
   box-sizing: border-box;
   margin-top: auto;
-
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
