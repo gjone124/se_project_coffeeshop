@@ -17,3 +17,9 @@ This is the second project of the Software Engineering program at TripleTen. It 
   ($1.00, $1.25, & $1.50 instead of $1, $1.25, $1.5)
 - the navigation links on the first page would look better if they were all capitalized ("Book A Table" instead of "Book a table")
 - under the menu, the "Party-size" cup would look better capitalized as "Party-Size" like the other items on the menu
+
+## Deployment
+
+This webpage is deployed to GitHub Pages
+
+-Deployment Link: https://gjone124.github.io/se_project_coffeeshop/
